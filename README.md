@@ -1,5 +1,8 @@
-![Frame 29 (2)](https://user-images.githubusercontent.com/79342387/120026943-2aa94480-bfc9-11eb-8d64-fb474a12890b.png)
+![Frame 29 (5)](https://user-images.githubusercontent.com/79342387/120027978-73adc880-bfca-11eb-9d99-68f0530e0916.png)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+----
+
 <p align="left"> 
   Hello, meu nome é Guilherme Gonçalves, e vou ser um desenvolvedor Full Stack.
 </p>
