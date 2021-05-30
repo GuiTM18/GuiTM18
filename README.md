@@ -1,6 +1,6 @@
 ![Frame 31 (2)](https://user-images.githubusercontent.com/79342387/120114671-a5539a80-c156-11eb-8308-5ef44557fc9a.png)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador GuiGonçalves">
-****
+----
 <p align="left"> 
   Hello, meu nome é <strong>Guilherme Gonçalves</strong>, e vou ser um desenvolvedor Full Stack.
 </p>
