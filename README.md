@@ -1,10 +1,8 @@
 ![Frame 31 (2)](https://user-images.githubusercontent.com/79342387/120114671-a5539a80-c156-11eb-8308-5ef44557fc9a.png)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador GuiGonçalves">
-
 ----
-
 <p align="left"> 
-  Hello, meu nome é Guilherme Gonçalves, e vou ser um desenvolvedor Full Stack.
+  Hello, meu nome é <strong>Guilherme Gonçalves</strong>, e vou ser um desenvolvedor Full Stack.
 </p>
 
 <p align="left">
@@ -16,7 +14,7 @@
 </p>
 
 <p align="left">
-  💻 Ferramentas: VSCode, Figma, Git and GitHub.
+  💻 Ferramentas: <strong>VSCode, Figma, Git and GitHub.</strong>
 </p>
 
 <p align="left">
@@ -24,6 +22,7 @@
 </p>
 <p align="left">
   
+  <a href="mailto:gui.goncakves.sp18@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   
   <a href="https://www.instagram.com/gui_goncallves/" alt="Instagram">
