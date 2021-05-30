@@ -1,4 +1,4 @@
-![Frame 30 (2)](https://user-images.githubusercontent.com/79342387/120114288-dcc14780-c154-11eb-8369-dcb29260c7cb.png)
+![Frame 31 (1)](https://user-images.githubusercontent.com/79342387/120114500-d1225080-c155-11eb-876b-74116c8945c3.png)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador GuiGonçalves">
 
 ----
