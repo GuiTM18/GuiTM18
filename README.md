@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
- 🚀 Aprendendo: <strong>HTML, CSS, JavaScript e banco de dados.</strong>
+ 🚀 Aprendendo: <strong>JavaScript, NodeJS, ReactNative e banco de dados.</strong>
 </p>
 
 <p align="left">
-  💻 Ferramentas: <strong>VSCode, Figma, Git e GitHub.</strong>
+  💻 Ferramentas: <strong>VSCode, Insomnia, Beekeeper Studio, Figma, Expo, Git e GitHub.</strong>
 </p>
 
 <p align="left">
@@ -32,5 +32,3 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
 
 </p>  
-<!--
-**GuiTM18/GuiTM18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
