@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
- 🚀 Aprendendo: <strong>JavaScript, NodeJS, ReactNative e banco de dados.</strong>
+ 🚀 Aprendendo: <strong>JavaScript/TypeScript, NodeJS, ReactJS, ReactNative e banco de dados.</strong>
 </p>
 
 <p align="left">
