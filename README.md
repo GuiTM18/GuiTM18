@@ -2,15 +2,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador GuiGonçalves">
 ----
 <p align="left"> 
-  Hello, meu nome é <strong>Guilherme Gonçalves</strong>, e estudo para ser um desenvolvedor Full Stack.
+  Hello, Aqui é <strong>Guilherme Gonçalves</strong>, e meu foco é se tornar um desenvolvedor Full Stack.
 </p>
 
 <p align="left">
-  🎓 Formado <strong>Análise de Sistemas</strong> pela Universidade Paulista(UNIP).
+  🎓 Cursando: <strong>Matemática e Computação</strong> pela Universidade Federal do Sul da Bahia(UFSB).
+  🎓 Formado: <strong>Análise e Desenvolvimento de Sistemas</strong> pela Universidade Paulista(UNIP).
 </p>
 
 <p align="left">
- 🚀 Aprendendo: <strong>JavaScript/TypeScript, NodeJS, ReactJS, API, ReactNative e database.</strong>
+ 🚀 Aprendendo: <strong>JavaScript/TypeScript, NodeJS, ReactJS, API, ReactNative, database e entre outros.</strong>
 </p>
 
 <p align="left">
