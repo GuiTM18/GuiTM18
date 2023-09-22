@@ -2,11 +2,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador GuiGonçalves">
 ----
 <p align="left"> 
-  Hello, Aqui é <strong>Guilherme Gonçalves</strong>, e meu foco é se tornar um desenvolvedor Full Stack.
+  Hello, Aqui é <strong>Guilherme Gonçalves</strong>, e meu foco é se tornar um desenvolvedor FullStack.
 </p>
 
 <p align="left">
-  🎓 Cursando: <strong>Matemática e Computação</strong> pela Universidade Federal do Sul da Bahia(UFSB).
+  🎓 Cursando: <strong>Matemática e Computação</strong> pela Universidade Federal do Sul da Bahia(UFSB). <br/>
   🎓 Formado: <strong>Análise e Desenvolvimento de Sistemas</strong> pela Universidade Paulista(UNIP).
 </p>
 
